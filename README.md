@@ -12,7 +12,7 @@ This repository contains detailed guidelines and tips for troubleshooting Nessus
 
 For more in-depth information and step-by-step guides, refer to the following resources:
 
-- [Original Medium Article](https://medium.com/@madushka/troubleshooting-nessus-credentialed-scanning-on-windows-542812ecd713) - A comprehensive guide by Madushka on troubleshooting Nessus credentialed scanning on Windows.
+- [Original Medium Article](https://medium.com/@a-madushka/troubleshooting-nessus-credentialed-scanning-on-windows-542812ecd713) - A comprehensive guide by Madushka on troubleshooting Nessus credentialed scanning on Windows.
 
 ### Contributing
 
